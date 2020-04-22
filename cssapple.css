@@ -1,0 +1,439 @@
+/* Normal tags */
+body {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+p {
+  color: black;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 4%;
+  /* postion of the content */
+  margin-left: 600px;
+  margin-bottom: 0;
+}
+
+/*
+img:hover {
+  width: 250px;
+}*/
+/* CSS class selectors */
+.logo {
+  width: 45px;
+  height: 45px;
+  padding-right: 0;
+  padding-left: 8px;
+  position: relative;
+  top: 10px;
+  display: inline-block;
+}
+
+.para {
+  color: black;
+  margin: auto 60px auto 125px;
+  width: 80%;
+}
+
+.hrh {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 3.5%;
+  /* postion of the content */
+  margin-left: 655px;
+  margin-top: 600px;
+}
+
+.pb {
+  display: inline-block;
+  color: grey;
+  font-family: "Gill Sans", sans-serif;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.psize {
+  font-size: 21px;
+}
+
+.main {
+  top: 25px;
+  position: absolute;
+  left: 80px;
+  right: 70px;
+  display: inline-block;
+  margin: 0px 50px 0px 50px;
+}
+
+.middle {
+  left: 480px;
+  position: absolute;
+  top: 270px;
+  display: inline-block;
+}
+
+.bottom {
+  margin-top: 10px;
+  position: relative;
+  top: 20px;
+  right: 30px;
+}
+
+.ptop {
+  font-family: 'Alex Brush', serif;
+  font-size: 60px;
+  margin: 2px;
+}
+
+.mtop {
+  margin-top: 0px;
+  color: gray;
+  margin-bottom: 30px;
+}
+
+.scroll {
+  transition: transform .2s;
+  margin-top: 0px;
+  margin-left: 5px;
+  height: 50px;
+  width: 50px;
+}
+
+.raghu {
+  height: 150px;
+  width: 150px;
+  margin: 0 15px 0 0;
+}
+
+.scroll:hover {
+  transform: scale(1.3);
+}
+
+/* CSS ID selectors */
+#heading {
+  width: 52%;
+  font-size: 40px;
+  color: black;
+  font-family: "Gill Sans", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+  top: 2px;
+  display: inline-block;
+}
+
+/* Container 1 */
+.container1 {
+  background-color: black;
+  margin-top: 70px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  height: 960px;
+  width: 1440px;
+}
+
+.bgimage {
+  width: 750px;
+  height: 540px;
+  margin-left: 40px;
+  margin-top: 195px;
+}
+
+.right-c1 {
+  width: 600px;
+  height: 650px;
+  border-radius: 2px;
+  position: absolute;
+  left: 100px;
+  top: 35px;
+}
+
+.iphonep1 {
+  width: 500px;
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 45px;
+  position: absolute;
+  left: 370px;
+  top: 0px;
+}
+
+.iphonep2 {
+  width: 500px;
+  color: grey;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 24px;
+  position: absolute;
+  left: 370px;
+  top: 70px;
+}
+
+.iphonep3 {
+  width: 600px;
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 30px;
+  position: absolute;
+  left: 325px;
+  top: 100px;
+}
+
+.iphonepm {
+  width: 1050px;
+  color: white;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  position: absolute;
+  left: 110px;
+  top: 680px;
+}
+
+.hri {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 8%;
+  /* postion of the content */
+  margin-left: 600px;
+  margin-top: 850px;
+}
+
+.container2 {
+  width: 100%;
+  position: absolute;
+  top: 970px;
+}
+
+.c2p {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 45px;
+  margin: 50px auto 35px 20px;
+}
+
+.c2i {
+  margin: 30px 30px 20px 70px;
+  width: 1050px;
+  height: 600px;
+}
+
+.c2p1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  color: grey;
+  width: 45%;
+  margin: auto 400px auto 410px;
+}
+
+.c2p2 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 40px;
+  width: 45%;
+  margin: 25px 400px 25px 410px;
+}
+
+.c2p3 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 20px;
+  color: grey;
+  width: 60%;
+  margin: auto 300px auto 310px;
+}
+
+.hrj {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 3.5%;
+  /* postion of the content */
+  padding-top: 20px;
+  margin-left: 700px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.container3 {
+  background-color: #F2F2F2;
+  height: 850px;
+  width: 1440px;
+}
+
+.c3left {
+  background-color: white;
+  position: absolute;
+  top: 1140px;
+  width: 600px;
+  height: 700px;
+  margin-left: 93px;
+}
+
+.c3right {
+  background-color: white;
+  position: absolute;
+  top: 1140px;
+  width: 600px;
+  height: 700px;
+  margin-left: 755px;
+}
+
+.c3lefti {
+  width: 430px;
+  height: 440px;
+}
+
+.c3r1 {
+  width: 50%;
+  text-align: left;
+  margin-top: 65px;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 70px;
+  color: #E15D44;
+}
+
+.c3l1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 43px;
+  width: 100%;
+  margin: 0px auto 5px auto;
+}
+
+.c3l2 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 15px;
+  width: 100%;
+  color: #DD4124;
+  margin: 5px auto 10px auto;
+}
+
+.c3l3 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 25px;
+  width: 60%;
+  color: black;
+  margin: 5px auto 10px auto;
+}
+
+.hrk {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width: 3.5%;
+  /* postion of the content */
+  margin-left: 700px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: absolute;
+  bottom: 25px;
+}
+
+.shop1 {
+  width: 30%;
+  position: absolute;
+  top: 800px;
+  left: 538px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  /*font-family: "Gill Sans", sans-serif; */
+  font-size: 17px;
+  color: #2997ff;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: inherit;
+  text-decoration: none;
+}
+
+.shop1:hover {
+  text-decoration: underline;
+}
+
+.shop2 {
+  width: 30%;
+  position: absolute;
+  top: 975px;
+  left: 510px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 17px;
+  color: #2997ff;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: inherit;
+  text-decoration: none;
+}
+
+.shop2:hover {
+  text-decoration: underline;
+}
+
+.shop3 {
+  width: 30%;
+  position: absolute;
+  top: 585px;
+  left: 12px;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 17px;
+  color: #2997ff;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: inherit;
+  text-decoration: none;
+}
+
+.shop3:hover {
+  text-decoration: underline;
+}
+
+.c3bottom {
+  height: 250px;
+  position: absolute;
+  top: 1920px;
+  background-color: #f2f2f2;
+}
+
+.c3b1 {
+  width: 70%;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-left: 220px;
+  color: grey;
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 14px;
+}
+
+.contact {
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 14px;
+  color: grey;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.ahrefb {
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 15px;
+  color: grey;
+  margin: 50px 10px auto 10px;
+  text-decoration: none;
+  color: #2997ff;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: inherit;
+}
+
+.ahrefb:hover {
+  text-decoration: underline;
+}
