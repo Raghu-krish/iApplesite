@@ -1,6 +1,11 @@
 /* Normal tags */
 body {
   text-align: center;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -53,7 +58,7 @@ img:hover {
   border-width: 7px;
   width: 3.5%;
   /* postion of the content */
-  margin-left: 655px;
+  margin-left: 665px;
   margin-top: 600px;
 }
 
