@@ -148,7 +148,7 @@ img:hover {
   position: absolute;
   left: 0px;
   height: 960px;
-  width: 1440px;
+  width: 100%;
 }
 
 .bgimage {
@@ -274,7 +274,7 @@ img:hover {
 .container3 {
   background-color: #F2F2F2;
   height: 850px;
-  width: 1440px;
+  width: 100%;
 }
 
 .c3left {
