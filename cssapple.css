@@ -48,8 +48,8 @@ img:hover {
 
 .para {
   color: black;
-  margin: auto 60px auto 125px;
-  width: 80%;
+  margin: auto 60px auto 60px;
+  width: 90%;
 }
 
 .hrh {
@@ -386,9 +386,10 @@ img:hover {
 
 .shop3 {
   width: 30%;
-  position: absolute;
-  top: 585px;
-  left: 12px;
+  margin-right: 420px;
+  position: relative;
+  top: 10px;
+  left: 2px;
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 17px;
   color: #2997ff;
